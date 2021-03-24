@@ -3,5 +3,8 @@ A collection of tests written with jest. Testing vanilla JS, Database queries, A
 
 ## Testing
 ### 01 - Vanilla Tests
-- ![FSA](/logo.png) [📺 Lecture]()
+<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
 - ![FSA](/logo.png) [👾 Demo Code](01-vanilla-tests)
+### 02 - Database Tests
+<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
+- ![FSA](/logo.png) [👾 Demo Code](02-database-tests)
