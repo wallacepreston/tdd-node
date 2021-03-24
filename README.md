@@ -3,8 +3,14 @@ A collection of tests written with jest. Testing vanilla JS, Database queries, A
 
 ## Testing
 ### 01 - Vanilla Tests
-<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=wr5rUsfVHDA)
 - ![FSA](/logo.png) [👾 Demo Code](01-vanilla-tests)
 ### 02 - Database Tests
-<!-- - ![FSA](/logo.png) [📺 Lecture]() -->
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=ztQWtzT0Sm8)
 - ![FSA](/logo.png) [👾 Demo Code](02-database-tests)
+### 03 - API Tests
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=u48WpgFnjp0)
+- ![FSA](/logo.png) [👾 Demo Code](03-api-tests)
+### 04 - React Tests
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=3Cjj9HHPqOo)
+- ![FSA](/logo.png) [👾 Demo Code](04-react-tests)
